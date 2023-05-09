@@ -45,9 +45,9 @@
 
 <h3 align="left">Tools:</h3>
 <p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-<img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Canva" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" style="padding-right:10px;" /></a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" /> </a>
+<a href="https://www.canva.com/" target="_blank" rel="noreferrer"><img align="left" alt="Canva" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" style="padding-right:10px;" /></a>
 </p>
 
 

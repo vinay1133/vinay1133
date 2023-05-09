@@ -5,8 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinay1133&label=Profile%20views&color=0e75b6&style=flat" alt="vinay1133" /> </p>
 
-- 📫 Reach me out at **vinaybhojwani75@gmail.com**
-
+- 🔭 I’m currently in 3rd year Computer Engineering Student
+- 🔬 I’m interested in Data Science
+<!-- - 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ... -->
+- 📧 How to reach me: **vinaybhojwani75@gmail.com**
+<!-- - 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+ -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   

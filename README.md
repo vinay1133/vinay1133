@@ -35,5 +35,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinay1133" alt="vinay1133" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=vinay1133" alt="vinay1133" /></p>
+<br></br>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=vinay1133&" alt="vinay1133"/></p>

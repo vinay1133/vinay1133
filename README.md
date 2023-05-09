@@ -1,3 +1,5 @@
+![logo](https://raw.githubusercontent.com/vinay1133/vinay1133/main/Cover_Page.png)
+
 <h1 align="center">Hi 👋, I'm Vinay Bhojwani</h1>
 <h3 align="center">An aspiring Data Scientist from India</h3>
 

@@ -48,6 +48,7 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" /> </a>
 <a href="https://www.canva.com/" target="_blank" rel="noreferrer"><img align="left" alt="Canva" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" style="padding-right:10px;" /></a>
+  <a href="https://www.github.com/" target="_blank" rel="noreferrer"><img align="left" alt="Github" width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/github/github-original.svg" style="color:white" /></a>
 </p>
 
 
